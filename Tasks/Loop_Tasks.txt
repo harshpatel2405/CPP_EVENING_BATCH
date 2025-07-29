@@ -1,0 +1,7 @@
+1) Find Number neon number or not ..
+2) Find out whether the number is perfect or not 
+3) Find pair of numbers are amicable numbers..
+4) Find Out whether the number is krishnmurthy number or not ..
+5) Find out whether the number is twin number or not ....
+
+
