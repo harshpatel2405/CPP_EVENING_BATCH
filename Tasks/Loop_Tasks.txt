@@ -1,7 +1,29 @@
-1) Find Number neon number or not ..
-2) Find out whether the number is perfect or not 
-3) Find pair of numbers are amicable numbers..
-4) Find Out whether the number is krishnmurthy number or not ..
-5) Find out whether the number is twin number or not ....
+1) Task : Write a program to check if the sum of digits at odd positions in a number is greater than those at even positions.
+
+input : 56458   -->  5 + 4 + 8 = 17
+                --> 6 + 5  = 11
+output : odd sum is greater 
+
+input : 123456
+output : Even sum is greater
+
+2) Find out how many numbers are Neon Numbers between 1 and 5000
+
+3) Find out how many numbers are perfect between 1 and 5000
+
+4) Find out the first digit of a number 
+    input : 5698
+    output : 5
+
+5) Find out the second largest digit in a number..
+    input : 4568
+    output : 6
+
+6) Print sum of largest and second largest digit in a number ..
+    input : 4568
+    output : 6 + 8 = 14
+
+7) Find out how many krishnamurthy numbers are there between 1 and 5000
 
 
+**** for every nesting question print number of loop counts....*****
