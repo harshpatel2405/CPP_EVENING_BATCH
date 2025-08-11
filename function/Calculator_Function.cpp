@@ -59,5 +59,6 @@ int main()
         cout << a;
         break;
     }
+
     return 0;
 }

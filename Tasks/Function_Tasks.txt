@@ -1,0 +1,6 @@
+1) Write a function to add two numbers.
+2) Create a function that returns the square of a number.
+3) Check if a number is even using a function with argument but no return.
+4) Create a function to calculate area of different shapes.(Circle , Triangle, Square , Rectangle)
+5) Count digits of a number using a function.
+6) Write a function that prints a multiplication table of any number.
