@@ -1,0 +1,67 @@
+Function --> a reusable block of code..
+
+add --> function 
+        infinite..
+
+subtract --> function 
+             infinite
+
+prime --> code 
+            |
+            |
+            Function
+
+            Number --> prime or not 
+
+
+
+========================================
+
+Function methodolgy := 
+
+1) Function Declaration // should be Above main function
+2) Function Definition  // above or below main function
+3) Function Calling   // inside main function
+
+#include <iostream>
+using namespace std;
+
+void add(); // Debug : Function Declaration 
+
+int main()
+{
+    add();  // Debug : Function Calling
+    return 0;
+}
+
+void add()
+{
+    // logic 
+} //Debug : Function Definition
+
+
+** 2nd Way **
+void add()
+{
+    // logic 
+} //Debug : Function Definition & declaration
+
+
+int main()
+{
+    add();  // Debug : Function Calling
+    return 0;
+}
+
+===============================================
+
+** Types Of Function **
+
+ReturnType      Argument
+=========       ========
+No              No 
+No              Yes
+Yes             No 
+Yes             Yes
+
+=============================================
