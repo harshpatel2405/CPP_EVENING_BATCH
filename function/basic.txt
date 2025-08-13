@@ -23,8 +23,8 @@ Function methodolgy :=
 2) Function Definition  // above or below main function
 3) Function Calling   // inside main function
 
-#include <iostream>
-using namespace std;
+
+*** 1st Way ***
 
 void add(); // Debug : Function Declaration 
 
@@ -64,7 +64,7 @@ No              Yes
 Yes             No 
 Yes             Yes
 
-=============================================
+=======================================================================
 
 RAM : Random Access Memory  -- 1 gb , 4 gb , 8 gb , 16gb , 64gb , 128gb
 ROM : Read Only Memory      -- Mb   4 , 8 , 12  -- Bootloader 
@@ -72,20 +72,3 @@ STORAGE  : Used for storing  ---- 128gb , 256gb , 512gb  , 1tb , 2tb
 
 
 ========================================================================
-
-int a , b;
-if(condition)
-{
-    cout << a << b ;
-    cout <<
-
-    cin >> 
-
-
-    int y;
-    //y operation
-}
-
-cout << a << b << y;
-
-

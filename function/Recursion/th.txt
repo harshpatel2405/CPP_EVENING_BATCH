@@ -1,0 +1,32 @@
+nested functions 
+
+
+void func1()
+{
+
+    func2();
+}
+
+void func2()
+{
+
+}
+
+======================
+
+Recursion -- function inside function
+
+void add(5)
+{
+    add(4)
+        {
+            add(3)
+            {
+                add(2)
+                {
+                    add(1)
+                }
+            }
+        }
+}
+        

@@ -1,75 +1,85 @@
-1)
-* * * * 
-* * * * 
-* * * * 
-* * * * 
+1) Solid/ Filled Square 
+      
+      * * * * 
+      * * * * 
+      * * * * 
+      * * * * 
+      
+2) Grid Pattern 
 
-2) 
-*   *   *   *   
-*   *   *   *   
-*   *   *   *
-*   *   *   *
+      *   *   *   *   
+      *   *   *   *   
+      *   *   *   *
+      *   *   *   *
 
-3)
-*
-* * 
-* * *
-* * * * 
-* * * * * 
+3)Left-Aligned Right-Angled Triangle 
 
-4) 
-* * * * * 
-* * * *
-* * * 
-* * 
-*
+      *
+      * * 
+      * * *
+      * * * * 
+      * * * * * 
 
-5) 
-1 
-2 3 
-4 5 6 
-7 8 9 10
+4)  Inverted Left-Aligned Right-Angled Triangle
 
-6)
-1
-2 2
-3 3 3
-4 4 4 4 
-5 5 5 5 5
+      * * * * * 
+      * * * *
+      * * * 
+      * * 
+      *
 
-7) 
-1 
-1 2 
-1 2 3 
-1 2 3 4
-1 2 3 4 5 
+5) Floyd’s Triangle
 
-8) 
-a b c d 
-e f g h 
-i j k l 
-m n o p 
+      1 
+      2 3 
+      4 5 6 
+      7 8 9 10
 
-9) 
-a
-b b 
-c c c 
-d d d d
-e e e e e
+6) Constant Row Number Triangle
 
-10) 
-a A 
-b B 
-c C 
-d D
+      1
+      2 2
+      3 3 3
+      4 4 4 4 
+      5 5 5 5 5
+
+7) Natural Number Triangle
+
+      1 
+      1 2 
+      1 2 3 
+      1 2 3 4
+      1 2 3 4 5 
+
+8) Sequential Alphabet Square/Matrix (Lowercase)
+
+      a b c d 
+      e f g h 
+      i j k l 
+      m n o p 
+
+9) Alphabet Pyramid with Repeating Row Letters (Lowercase)
+
+      a
+      b b 
+      c c c 
+      d d d d
+      e e e e e
+
+10) Lowercase–Uppercase Pair Pattern
+
+      a A 
+      b B 
+      c C 
+      d D
 
 
 11) Uppper Pyranmid
-       *
-      * *
-     * * * 
-    * * * *
-   * * * * *
+           *
+          * *
+         * * * 
+        * * * *
+       * * * * *
 
 12) Lower Pyramid 
        * * * * * 
@@ -79,19 +89,108 @@ d D
            * 
 
 13) Diamond Pattern 
-       *
-      * *
-     * * * 
-    * * * *
-   * * * * * 
-    * * * *
-     * * *
-      * *
-       * 
+           *
+          * *
+         * * * 
+        * * * *
+       * * * * * 
+        * * * *
+         * * *
+          * *
+           * 
 
-14)   
-        1
-      2 3 2
-    3 4 5 4 3
-  4 5 6 7 6 5 4
-5 6 7 8 9 8 7 6 5
+14) Palindromic Number Pyramid
+              1
+            2 3 2
+          3 4 5 4 3
+        4 5 6 7 6 5 4
+      5 6 7 8 9 8 7 6 5
+
+
+15) Hollow Square 
+
+      * * * * *
+      *       *
+      *       *
+      *       *
+      * * * * *
+
+
+16) Hollow Pyramid 
+
+          *    
+         * *   
+        *   *  
+       *     * 
+      * * * * *
+
+
+17) Hollow Diamond 
+
+          *    
+         * *   
+        *   *  
+       *     * 
+      *       *
+       *     * 
+        *   *  
+         * *   
+          *
+
+
+18) ButterFly Pattern 
+
+        *       *
+        * *   * *
+        * * * * *
+        * *   * *
+        *       *
+
+19) Hollow Left-Aligned Right-Angled Triangle
+
+*
+* *
+*   *
+*     *
+* * * * *
+
+20) Pascal’s Triangle
+
+    1
+   1 1
+  1 2 1
+ 1 3 3 1
+1 4 6 4 1
+
+
+21) Zigzag / Wave Pattern
+
+    *       *       *
+  *   *   *   *   *   *
+*       *       *       *
+
+
+22) Hourglass Pattern
+
+* * * * *
+ * * * *
+  * * *
+   * *
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+
+23) Sandglass Pattern (Hollow Hourglass)
+
+* * * * *
+ *     *
+  *   *
+   * *
+    *
+   * *
+  *   *
+ *     *
+* * * * *

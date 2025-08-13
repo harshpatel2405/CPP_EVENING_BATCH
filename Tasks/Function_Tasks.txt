@@ -4,3 +4,12 @@
 4) Create a function to calculate area of different shapes.(Circle , Triangle, Square , Rectangle)
 5) Count digits of a number using a function.
 6) Write a function that prints a multiplication table of any number.
+
+=====================================================
+
+7) Write a C program to create a Restaurant Order & Delivery Time Estimator using two functions
+
+8) Calculate overtime pay using a separate function.
+9) Generate the power of a number (a^b) using recursion.
+10) Strong Number Check using function
+    Example: 145 → 1! + 4! + 5! = 145.
