@@ -13,3 +13,12 @@
 9) Generate the power of a number (a^b) using recursion.
 10) Strong Number Check using function
     Example: 145 → 1! + 4! + 5! = 145.
+
+======================================================
+
+11) Create a menu-driven program using functions:
+    a. Factorial
+    b. Prime check
+    c. Armstrong check
+    d. Reverse
+    e. Exit
