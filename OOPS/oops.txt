@@ -1,0 +1,83 @@
+OOPS  -- Object Oriented Programming Concepts 
+real life solution of anything 
+
+
+struct Student
+{
+    // properties(data members)    
+    int rno ;
+    int age;
+    int std;
+    string name;
+    string div;
+};
+
+
+// advanced structure
+class Student{
+     // properties(data members)
+    int rno ;
+    int age;
+    int std;
+    string name;
+    string div;
+
+    // behaviour(member function)
+    void study()
+    {
+
+    }
+    void play()
+    {
+
+    }
+};
+
+
+class are logical / not physical
+objects are created ,  then memory is allocated..
+objects can be physical as well as logical / not physical
+
+
+
+
+class               Objects 
+Animal              Dog
+Dog                 Golden Retriver
+Cat                 Asiatic Lion 
+Person              Student 
+Person              Employee
+Person              Harsh
+
+Vehicle             Car
+Vehicle             Bike
+
+Car                 Tata/ Suzuki   X
+Car                 Alto
+
+Laptop              Dell Vostro 3500
+
+
+20 classes and objects pair
+
+class                                          object
+
+headphones                                  rockerz 550
+institute                                   royal TECHNOSOFT 
+mobile                                      oppo a78 5g
+coding language                             c,c++,js,html
+amul                                        dark chocolate, dairy milk 
+cake                                        black forest,browny
+dominoz                                     peppy paneer
+mac donalds                                 mac veggie burger
+honor                                       gs 3 blue
+iphone                                      13 pro max
+samsung                                     neo qled 4k 
+hp                                          hp laptop amd ryzen 5 
+it                                          infosys
+cement                                      ambuja 
+faculty                                     dhruv sharma
+being human                                 ayme green color 
+celebrity                                   salamn khan 
+social media                                instagram
+lenskart                                    zero power blue LENS    
