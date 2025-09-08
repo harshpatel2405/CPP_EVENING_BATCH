@@ -2,6 +2,8 @@ OOPS  -- Object Oriented Programming Concepts
 real life solution of anything 
 
 
+
+// structure  -- properties (data members)
 struct Student
 {
     // properties(data members)    
@@ -13,7 +15,7 @@ struct Student
 };
 
 
-// advanced structure
+// advanced structure -- properties , behaviour (methods /  member functions)
 class Student{
      // properties(data members)
     int rno ;
@@ -39,8 +41,6 @@ objects are created ,  then memory is allocated..
 objects can be physical as well as logical / not physical
 
 
-
-
 class               Objects 
 Animal              Dog
 Dog                 Golden Retriver
@@ -52,7 +52,7 @@ Person              Harsh
 Vehicle             Car
 Vehicle             Bike
 
-Car                 Tata/ Suzuki   X
+Car                 Tata/ Suzuki         X
 Car                 Alto
 
 Laptop              Dell Vostro 3500
@@ -81,3 +81,15 @@ being human                                 ayme green color
 celebrity                                   salamn khan 
 social media                                instagram
 lenskart                                    zero power blue LENS    
+
+======================================================================>
+ACCESS SPECIFIERS
+-----------------
+
+HOW MUCH ACCESS YOU WANT TO PROVIDE YOU NEED TO SPECIFY IT ......
+
+Types:
+------
+1) private   ::: accessible only inside the class
+2) public    ::: accessible everywhere throughout the file 
+3) protected ::: accessible within class and another classes only (with the help of inheritance)
